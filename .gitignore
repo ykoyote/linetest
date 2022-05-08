@@ -27,6 +27,10 @@ yarn-error.log*
 
 # local env files
 .env*.local
+.env
 
 # vercel
 .vercel
+.vscode
+smart-contracts
+soljson-v0.8.4+commit.c7e474f2.js
